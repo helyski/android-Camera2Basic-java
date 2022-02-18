@@ -1,4 +1,16 @@
 
+Note:Android Camera2Basic Sample - Java code version
+==================================
+I hope this project can help some one like me only work well in java and need a runnable project to understand camera2,
+so I share the project in github.
+
+This branch create from "master" branch commit node "73e125d3" in official sample [android-Camera2Basic][22] (**deprecated**).
+
+Build well in:
+Android Studio Arctic Fox | 2020.3.1 Patch 2
+
+[22]: https://github.com/googlearchive/android-Camera2Basic
+
 Android Camera2Basic Sample
 ===================================
 
